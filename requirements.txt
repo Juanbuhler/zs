@@ -1,0 +1,6 @@
+boonsdk
+boonlab
+numpy
+opencv_python
+streamlit
+streamlit-drawable-canvas
